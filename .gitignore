@@ -1,0 +1,4 @@
+smoke_data/
+evolve_data/
+__pycache__/
+.venv/
